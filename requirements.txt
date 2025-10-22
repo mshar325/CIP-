@@ -1,0 +1,17 @@
+streamlit
+pandas
+pytesseract
+Pillow
+PyMuPDF
+groq
+plotly
+wordcloud
+textblob
+fpdf
+spacy
+selenium
+beautifulsoup4
+feedparser
+nest_asyncio
+redis
+openai
